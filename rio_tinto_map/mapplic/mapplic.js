@@ -104,7 +104,7 @@
 
 				}).appendTo(this.el);
 				
-				$('<img src="images/goal.gif">').appendTo(this.el);
+				$('<img src="images/goal.png">').appendTo(this.el);
 				
 				self.map.append(this.el);
 			}
