@@ -1,0 +1,104 @@
+{
+	"mapwidth": "1400",
+	"mapheight": "700",
+	"levels": [
+		{
+			"id": "map",
+			
+			
+			"map": "images/map/map.jpg",
+			"locations": [
+				{
+					"id": "stephane",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181770\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/stephane_leblanc.png",
+					"x": "0.115",
+					"y": "0.419",
+					"xshift": "-60",
+					"hover": "yes",
+					"area": "52, 294, 302, 351"					
+				},
+				{
+					"id": "matt",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181459\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/matt_lengerich.png",
+					"x": "0.28",
+					"y": "0.353",
+					"xshift": "0",
+					"hover": "yes",
+					"area": "322, 250, 484, 307"
+				},
+				{
+					"id": "bryan",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181449\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/bryan_pett.png",
+					"x": "0.48",
+					"y": "0.363",
+					"xshift": "0",
+					"hover": "yes",
+					"area": "565, 257, 796, 314"
+				},
+				{
+					"id": "elaina",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181450\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/elaina_ware.png",
+					"x": "0.337",
+					"y": "0.695",
+					"xshift": "0",
+					"hover": "yes",
+					"area": "364, 486, 617, 543"
+				},
+				{
+					"id": "scott",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181461\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/scott_browne.png",
+					"x": "0.126",
+					"y": "0.844",
+					"xshift": "-60",
+					"hover": "yes",
+					"area": "64, 590, 314, 647"
+					
+				},
+				{
+					"id": "karim",
+					"description": "<iframe src=\"//player.vimeo.com/video/109181455\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/karim_donnez.png",
+					"x": "0.695",
+					"y": "0.448",
+					"xshift": "0",
+					"hover": "yes",
+					"area": "891, 317, 1068, 374"
+					
+				},
+				{
+					"id": "mike",
+					"description": "<iframe src=\"//player.vimeo.com/video/111795245\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"x": "0.66",
+					"y": "0.775",
+					"xshift": "0",
+					"hover": "no",
+					"area": "854, 540, 1021, 597"
+				},
+				{
+					"id": "mark",
+					"description": "<iframe src=\"//player.vimeo.com/video/112506519\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+					"photo": "images/photos/mark_holdsworth.png",
+					"x": "0.52",
+					"y": "0.658",
+					"xshift": "0",
+					"hover": "yes",
+					"area": "656, 461, 823, 518"
+				},
+				{
+					"id": "resources",
+					"description": "<div class=\"resources\"><ul><li><p><a href=\"http://riotinto.intra.tv/default.asp?vid=793\">Smelter value programme video</a></p></li><li><p><a href=\"http://riotinto.intra.tv/default.asp?vid=793\">Smelter value programme case study powerpoint</a></p></li><li><p>Q&A</p></li><li><p>Leadership in the Field, communication & trust video</p></li></ul></div>",
+					"x": "0.832",
+					"y": "0.633",
+					"xshift": "0",
+					"hover": "no",
+					"area": "1014, 443, 1322, 514"
+				}
+			]
+		}
+	]
+}
