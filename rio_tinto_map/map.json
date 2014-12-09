@@ -73,11 +73,12 @@
 				{
 					"id": "mike",
 					"description": "<iframe src=\"//player.vimeo.com/video/111795245\" width=\"375\" height=\"210\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-					"x": "0.66",
-					"y": "0.775",
+					"photo": "images/photos/mike_ware.png",
+					"x": "0.666",
+					"y": "0.770",
 					"xshift": "0",
-					"hover": "no",
-					"area": "854, 540, 1021, 597"
+					"hover": "yes",
+					"area": "856, 540, 1021, 597"
 				},
 				{
 					"id": "mark",
